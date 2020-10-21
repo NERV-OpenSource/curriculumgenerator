@@ -51,7 +51,7 @@ Para fazer um commit siga as seguintes regras:
 
 ## Créditos
 
-Créditos especiais ao:
+Créditos especiais ao:   
 [Fukubi](https://github.com/Fukubi) desenvolvimento das telas e da lógica.
 
 [Henrique Nitatori](https://github.com/henrique-nitatori) por ter apoiado no desenvolvimento do projeto e ter feito a maior parte dos layouts das telas.
