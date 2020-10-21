@@ -1,11 +1,7 @@
 # Projeto Open Source - NERV Open Source
 ## Feito por Fukubi e Henrique Nitatori
 
-Esse projeto se trata de um website onde é requisitado os dados básicos e depois é efetuado a criação de um currículo em formato pdf pronto para ser utilizado. O documento gerado não tem nenhuma restrição, podendo ser considerado como autor o dono dos dados fornecidos.
-
-## Sobre o projeto atualmente
-
-Atualmente, o projeto conta com uma landing page, o formulário, e as funcionalidades básicas.
+Esse projetoe é um website onde é requisitado os dados básicos do usuário como escolaridade, experiências profissionais e depois é efetuado a criação de um currículo em formato .PDF pronto para ser utilizado. O documento gerado não tem nenhuma restrição, podendo ser considerado como autor o dono dos dados fornecidos.
 
 ## Prints do projeto
 

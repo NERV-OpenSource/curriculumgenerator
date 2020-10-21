@@ -15,7 +15,7 @@ function Landing() {
                 <header className="nerv">
                     <a href="https://discordapp.com/channels/765617045902589952/765756492711198740/766439436250382356" target="_blank" rel="noopener noreferrer">
                         <FaDiscord size={32} color="#FFF" />
-                        <h2>NERV open source</h2>
+                        <h2>NERV Open Source</h2>
                     </a>
                 </header>
                 <h1>Free Curriculum Generator</h1>

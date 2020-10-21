@@ -21,13 +21,13 @@ function About() {
             <div className="container">
 
                 <header className="header-web">
+                    <Link to="/">
+                        <FaArrowCircleLeft size={44} color="#FFF" />
+                    </Link>
+                    <section>
                     <div>
                         <h1>Sobre o projeto</h1>
                     </div>
-                    <section>
-                        <Link to="/">
-                            <FaArrowCircleLeft size={44} color="#FFF" />
-                        </Link>
                     </section>
                 </header>
 
@@ -51,7 +51,7 @@ function About() {
 
                     <h4>Curriculum Generator</h4>
                     <p className="subtitle">
-                        Esse projeto foi criado com o intuito de ajudar as pessoas que não tem tanto conhecimento em informática para criar
+                        Esse projeto foi criado com o intuíto de ajudar as pessoas que não tem tanto conhecimento em informática para criar
                         um currículo por si só ou para aqueles que estão procurando uma facilidade no processo de criação de um. Além de guiar
                         aqueles que não tem um conhecimento das etapas da criação dele.
                 </p>
